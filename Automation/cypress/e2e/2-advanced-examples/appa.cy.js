@@ -4,6 +4,9 @@ describe('Google', () => {
       cy.visit('https://ecommerce.tech-glazers.com/');
   
      
+
+
+      
     });
   });
   
